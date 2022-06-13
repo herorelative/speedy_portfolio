@@ -18,7 +18,7 @@ const Hero = () => {
         my="auto"
       >
         <Text lineHeight="normal" h="60vh" pt={10}>
-          I’m a lead full-stack web engineer who knows good app means good
+          I{"'"}m a lead full-stack web engineer who knows good app means good
           business.
         </Text>
       </Heading>

@@ -33,9 +33,9 @@ const Contact: NextPage = () => {
         </Box>
         <Box mt={8}>
           <Text>
-            Whether you're reaching out with particular questions, got a project
-            in mind, or want to cooperate on something, I'm all ears – use this
-            form and I'll get back to you as soon as I can.
+            Whether you{"'"}re reaching out with particular questions, got a
+            project in mind, or want to cooperate on something, I{"'"}m all ears
+            – use this form and I{"'"}ll get back to you as soon as I can.
           </Text>
         </Box>
       </SimpleGrid>

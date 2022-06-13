@@ -20,11 +20,11 @@ const LetUsTalk = () => {
       >
         <GridItem colSpan={{ base: 1, md: 2 }}>
           <Heading size="3xl" mb={6}>
-            Let's talk?
+            Let{"'"}s talk?
           </Heading>
           <Text>
             Got a partnership idea, or a project you need help with? Shoot me a
-            line and let's talk.
+            line and let{"'"}s talk.
           </Text>
         </GridItem>
         <GridItem colSpan={{ base: 1, md: 3 }} mt={8}>
