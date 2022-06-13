@@ -8,6 +8,7 @@ const LetUsTalk = () => {
       minH="20vh"
       alignItems="center"
       align="center"
+      wrap="wrap"
       justifyContent="center"
       direction="column"
     >
